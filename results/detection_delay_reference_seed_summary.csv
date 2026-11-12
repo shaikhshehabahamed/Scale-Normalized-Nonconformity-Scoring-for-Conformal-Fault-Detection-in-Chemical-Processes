@@ -1,0 +1,4 @@
+,n_total,n_detected,detection_probability,conditional_median_delay,conditional_mean_delay
+All,8000.0,7930.0,0.99125,10.0,43.82257250945776
+Easy,4000.0,4000.0,1.0,3.0,7.875
+Hard,3200.0,3130.0,0.978125,36.0,96.7888178913738

@@ -1,0 +1,5 @@
+architecture,MSE_All_FDR,MSE_All_FDR_std,MSE_Hard_FDR,MaxPV_All_FDR,MaxPV_All_FDR_std,MaxPV_Hard_FDR,NormMaxPV_All_FDR,NormMaxPV_All_FDR_std,NormMaxPV_Hard_FDR
+SampleAE,63.1,0.36,32.3,61.3,0.46,31.0,75.4,0.4,45.7
+DenseAE,70.6,0.14,46.5,74.2,0.18,47.3,83.4,0.03,60.5
+ConvAE,71.7,0.65,47.5,72.8,0.31,46.3,83.5,0.02,60.6
+TCN-AE,71.2,0.11,47.2,73.4,0.22,46.6,83.5,0.02,60.6
